@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xml' href='https://catalyst.sh/wp-content/plugins/wpmu-dev-seo/includes/admin/templates/xsl/xml-sitemap-index-whitelabel.xsl'?><sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+              xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<sitemap><loc>https://catalyst.sh/page-sitemap1.xml</loc><lastmod>2021-12-09T04:13:03+00:00</lastmod></sitemap>			<sitemap><loc>https://catalyst.sh/project-sitemap1.xml</loc><lastmod>2021-09-21T06:09:18+00:00</lastmod></sitemap>			<sitemap><loc>https://catalyst.sh/category-sitemap1.xml</loc><lastmod>2021-09-21T06:09:18+00:00</lastmod></sitemap>	</sitemapindex>

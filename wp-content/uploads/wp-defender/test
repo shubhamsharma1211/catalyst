@@ -1,0 +1,10 @@
+array (
+  'id' => 1,
+  'status' => 'finish',
+  'date_start' => '2020-12-01 10:31:46',
+  'percent' => 75.0,
+  'total_tasks' => 4,
+  'task_checkpoint' => NULL,
+  'date_end' => '2020-12-01 10:31:46',
+  'is_automation' => false,
+)

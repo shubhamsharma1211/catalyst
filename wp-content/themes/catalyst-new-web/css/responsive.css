@@ -1,0 +1,977 @@
+
+@media only screen and (max-width:1440px) {
+    .banner-background h1 {
+        font-size: 87px;
+        max-width: 636px;
+        padding: 121px 0;
+        font-family: 'Manrope-ExtraBold';
+        margin-left: -59px;
+    }
+    .social-icon-background {
+        background-size: 382px;
+    }
+    .social-icon-wrapper {
+        padding: 87px 0;
+        position: relative;
+        top: 167px;
+    }
+    .social-icon-wrapper ul {
+        margin-left: 95px;
+    }
+    .web-text-section {
+        margin-right: 70px;
+    }
+    .mobile-text-section {
+        margin-left: 70px;
+    }
+    .digital-marketing-text-section {
+        margin-right: 70px;
+    }
+    .art-and-design-text-section {
+        margin-left: 70px;
+    }
+    .services-icong-background {
+        background-position: bottom;
+    }
+    .testimonial-text-wrapper h2 {
+        position: relative;
+        top: 105px;
+    }
+    div#testimonial-slider {
+        position: relative;
+        top: 112px;
+        padding-bottom: 0px;
+    }
+    .item-content-section {
+        text-align: center;
+        padding: 44px 0;
+    }
+    /* span.about-text */
+    span.about-text {
+        display: none;
+    }
+    .digital-agency-wrapper {
+/*        max-width: 100%;
+        padding: 111px 0;
+        padding-bottom: 418px;*/
+    padding: 138px 0;
+    padding-bottom: 270px;
+    margin-left: 65px;
+    max-width: 529px;
+    }
+    img.animation-background {
+        position: absolute;
+        right: 0;
+        width: 775px;
+        height: auto;
+        padding-top: 174px;
+}
+    .supecial-content-text {
+        max-width: 491px;
+    }
+    
+.services-section {
+    margin-top: -9px;
+    padding-bottom: 33px;
+}
+.social-icon-wrapper .textwidget.custom-html-widget h3 {
+    margin-left: 128px;
+}
+img.animation-img.plane {
+    left: 203px;
+    top: 146px;
+    width: 89px;
+    height: auto;
+}
+
+}
+
+@media only screen and (max-width:1360px) {
+    .banner-background h1 {
+        font-size: 87px;
+        max-width: 663px;
+        color: #5685ec;
+        padding: 166px 0;
+        font-family: 'Manrope-ExtraBold';
+        margin-left: -40px;
+    }
+    .digital-power-section {
+        margin-top: -263px;
+    }
+    .social-icon-wrapper {
+        padding: 112px 0;
+        position: relative;
+        top: 109px;
+    }
+    .digital-agency-wrapper {
+        max-width: 676px;
+        padding: 111px 0;
+        padding-bottom: 305px;
+    }
+    .wrapper-text-heading h2:before {
+        top: -30px;
+        left: -10px;
+        width: 42px;
+    }
+    .wrapper-heading h2:before {
+        top: -31px;
+        left: -49px;
+        width: 42px;
+    }
+    .our-specialisations-section h3 {
+        font-size: 35px;
+        font-weight: 900;
+        color: #5686ec;
+        padding-bottom: 20px;
+    }
+}
+
+@media only screen and (max-width:1299px) {
+    .social-icon-wrapper {
+       padding: 40px 0;
+       position: relative;
+       top: 187px;
+    }
+    .social-icon-background {
+       background-size: 338px;
+    }
+    .social-icon-wrapper ul {
+        margin-left: 65px;
+    }
+    .digital-agency-wrapper {
+        max-width: 524px;
+        padding: 111px 0;
+        padding-bottom: 335px;
+    }
+    .social-icon-wrapper .container {
+        margin-right: 0;
+    }
+    .banner-background h1 {
+      font-size: 75px;
+      max-width: 540px;
+      color: #5685ec;
+      padding: 99px 0;
+      margin-left: 0;
+    }
+    .row.services-col-section {
+        text-align: center;
+        padding: 20px 88px;
+    }
+    .services-section {
+/*        margin-top: 15px;*/
+        margin-top: 109px;
+        padding-bottom: 33px;
+    }
+    .web-text-section,
+    .digital-marketing-text-section {
+        margin-right: 50px;
+    }
+    .mobile-text-section,
+    .art-and-design-text-section {
+        margin-left: 50px;
+    }
+    img.animation-background {
+    position: absolute;
+    right: 0;
+    width: 670px;
+    height: auto;
+    padding-top: 174px;
+}
+img.animation-img.plane {
+    left: 165px;
+    top: 145px;
+    width: 89px;
+    height: auto;
+}
+}
+
+@media only screen and (max-width:1199px) {
+    ul.navbar-nav {
+        position: absolute;
+        right: 20px;
+    }
+    .navbaar-section {
+        padding: 24px 40px;
+    }
+    .banner-wrapper {
+        padding: 80px 0;
+    }
+    .banner-background h1 {
+       font-size: 77px;
+       max-width: 547px;
+       color: #5685ec;
+       padding: 141px 0;
+    }
+    .social-icon-wrapper ul {
+        margin-left: 48px;
+    }
+    .social-icon-background {
+       background-size: 300px;
+     }
+    .social-icon-wrapper {
+        padding: 0 0;
+        position: relative;
+        top: 209px;
+    }
+    .digital-power-section {
+        margin-top: -221px;
+    }
+    .digital-agency-wrapper {
+        max-width: 448px;
+        padding: 108px 0;
+        padding-bottom: 302px;
+        margin-left: -79px;
+    }
+    .row.services-col-section {
+        padding: 20px 39px;
+    }
+    .mobile-text-section,
+    .art-and-design-text-section {
+        margin-left: 20px;
+    }
+    .web-text-section,
+    .digital-marketing-text-section {
+        margin-right: 20px;
+    }
+    .testimonial-section-background {
+        background-size: contain;
+    }
+    div#testimonial-slider {
+        padding-bottom: 0;
+        padding: 0;
+    }
+    .our-specialisations-section.wrapper-text-heading {
+        padding: 37px 0;
+        padding-top: 115px;
+    }
+      
+}
+
+@media only screen and (max-width:1050px) {
+    .digital-agency-wrapper {
+        max-width: 448px;
+        padding: 68px 0;
+        padding-bottom: 216px;
+        margin-left: 0px;
+    }
+    .social-icon-wrapper {
+        top: 178px;
+    }
+    nav.site-nav ul li {
+        padding: 7px 15px;
+    }
+    .banner-background h1 {
+        font-size: 72px;
+        max-width: 522px;
+        color: #5685ec;
+        padding: 105px 0;
+    }
+    .digital-power-section {
+        margin-top: -164px;
+    }
+    .services-section {
+        margin-top: -92px;
+        padding-bottom: 33px;
+    }
+    .web-text-section,
+    .digital-marketing-text-section {
+        margin-right: -15px;
+    }
+    .mobile-text-section,
+    .art-and-design-text-section {
+        margin-left: -15px;
+    }
+    .we-work-with-section {
+        margin-top: 0;
+    }
+    img.how-it-works-icon {
+        width: 190px;
+        height: auto;
+    }
+    img.how-it-works-icon.left-icon {
+        position: relative;
+        right: 39px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .banner-wrapper {
+        padding: 80px 0;
+        position: relative;
+        right: 58px;
+    }
+    .social-icon-wrapper {
+        top: 163px;
+        right: 19px;
+    }
+    .social-icon-wrapper .container {
+        margin: auto;
+    }
+    .digital-agency-wrapper {
+        max-width: 380px;
+        padding: 115px 0;
+        padding-bottom: 116px;
+        margin-left: 0px;
+    }
+    .services-section {
+        margin-top: 55px;
+        padding-bottom: 33px;
+    }
+    .our-specialisations-section h3 {
+        font-size: 34px;
+        font-weight: 900;
+        color: #5686ec;
+        padding-bottom: 5px;
+    }
+    p {
+        font-size: 18px;
+        line-height: 28px;
+        color: #565454;
+    }
+    .mobile-text-section {
+        margin-left: 20px;
+    }
+    .web-text-section,
+    .digital-marketing-text-section {
+        margin-right: -35px;
+    }
+    .row.services-col-section img {
+        width: 91px;
+        height: auto;
+        padding: 0;
+    }
+    .row.services-col-section h3 {
+        color: #5686ec;
+        font-size: 19px;
+        padding-bottom: 4px;
+    }
+    .services-col-content {
+        padding: 13px 0;
+    }
+    .row.services-col-section .col-sm-4 {
+        padding: 0px 9px;
+    }
+    .row.services-col-section p {
+        font-size: 15px;
+        max-width: 261px;
+        margin: auto;
+        padding-bottom: 2px;
+        color: #fff;
+        visibility: hidden;
+        line-height: 19px;
+    }
+    .row.services-col-section {
+        padding: 20px 15px;
+    }
+    input#exampleInputEmail1 {
+        width: 727px;
+        margin: auto;
+        padding: 24px;
+        font-size: 19px;
+        border-radius: 40px;
+    }
+    button.btn.btn-primary.mb-2 {
+        background-image: linear-gradient(30deg, #606aff 29%, #6eafff) !important;
+        border: none;
+        padding: 7px 0;
+        font-size: 19px;
+        border-radius: 40px;
+        width: 190px;
+        margin-left: 528px;
+        margin-top: -52px;
+    }
+    .item-section-backgrounds {
+        background-size: 90px;
+    }
+    img.round-bottom-img {
+        width: 41px !important;
+        position: relative;
+        top: -23px;
+        left: 355px;
+    }
+    .item-section-backgrounds:before {
+        left: 222px;
+        bottom: 63px;
+        width: 72px;
+        height: 97px;
+    }
+    img.item-top-img {
+        width: 70px !important;
+        top: 17px;
+        left: 24px;
+    }
+    .item-section-backgrounds:after {
+        left: -28px;
+        bottom: 50px;
+        width: 70px;
+        height: 87px;
+    }
+    .item-content-section p {
+        color: #64738E;
+        font-size: 17px;
+        line-height: 30px;
+        max-width: 550px;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .navbaar-section {
+        padding: 24px 16px;
+    }
+    ul.navbar-nav {
+        position: absolute;
+        right: 12px;
+    }
+    nav.site-nav ul li {
+        padding: 7px 7px;
+    }
+    nav.site-nav ul li a {
+        margin-left: 12px;
+    }
+    /* tt */
+    .banner-background h1 {
+        /* font-size: 60px;
+        max-width: 416px;
+        color: #5685ec;
+        padding: 60px 0; */
+        font-size: 48px;
+        max-width: 369px;
+        color: #5685ec;
+        padding: 118px 0;
+    }
+    .banner-wrapper {
+        right: 10px;
+    }
+    .digital-agency-wrapper {
+        max-width: 320px;
+        padding: 41px 0;
+        padding-bottom: 0;
+        margin-left: 21px;
+    }
+    .social-icon-wrapper ul {
+        margin-left: 3px;
+    }
+    .social-icon-wrapper {
+        top: 126px;
+        right: 0;
+    }
+    .digital-power-section {
+        margin-top: -104px;
+    }
+    .wrapper-heading h2 {
+        font-size: 40px;
+        max-width: 352px;
+        padding-bottom: 15px;
+    }
+    .wrapper-text-heading h2 {
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+    .services-section {
+        margin-top: 125px;
+        padding-bottom: 33px;
+    }
+    /* .supecial-content-text {
+        max-width: 330px;
+        position: relative;
+        top: 0;
+    } */
+    .row.our-special-col {
+        padding-bottom: 40px;
+    }
+    .web-text-section {
+        /* left: 36px;
+        top: 0; */
+        position: unset;
+    }
+    .email-background {
+        padding: 60px 0;
+        background-image: linear-gradient(30deg, #606aff 29%, #6eafff);
+        padding-bottom: 20px;
+    }
+    .email-submit-section-background {
+        width: 100%;
+        background-repeat: no-repeat;
+        height: auto;
+        padding: 77px 0;
+        padding-bottom: 112px;
+        background-size: contain;
+    }
+    .we-work-with-section {
+        position: relative;
+        margin-top: 0;
+    }
+    .our-specialisations-section.wrapper-text-heading {
+        padding: 27px 0;
+        padding-top: 95px;
+    }
+    .row.art-and-design-col {
+        padding: 50px 0;
+    }
+    img.how-it-works-icon {
+        width: 160px;
+        height: auto;
+    }
+    .timeline-background .container {
+        margin-right: 0;
+    }
+    .social-icon-wrapper .container {
+        margin-right: 0;
+    }
+}
+
+
+/* 105000000000000000000000000000000000000000000000000000000000 */
+
+@media only screen and (max-width:767px) {
+    ul.navbar-nav {
+        display: none;
+    }
+    span.mobile-menu-btn {
+        display: block !important;
+        z-index: 9;
+    }
+    .overlay {
+        z-index: 99;
+    }
+    nav.site-nav ul {
+        list-style-type: none;
+        display: block;
+        padding-inline-start: 0px;
+    }
+    nav.site-nav ul li a {
+        font-size: 30px;
+        font-weight: 900;
+        margin-left: 0;
+        color: #fff;
+        position: relative;
+        transition: all ease-in-out .4s;
+        padding: 0;
+        display: block;
+        transition: .6s;
+    }
+    a.closebtn {
+        text-decoration: none !important;
+    }
+    .navbaar-section {
+        display: flex;
+        align-items: center;
+        padding: 12px 28px;
+    }
+    /* hompage */
+    /* .banner-background h1 {
+        font-size: 60px;
+        max-width: 416px;
+        color: #5685ec;
+        padding: 60px 0;
+    } */
+    .digital-agency-wrapper {
+        max-width: 298px;
+        padding: 0px 0;
+        padding-bottom: 0;
+        margin-left: -47px;
+        top: 43px;
+        position: relative;
+    }
+    .wrapper-heading h2 {
+        font-size: 38px;
+        max-width: 328px;
+        padding-bottom: 15px;
+    }
+    .wrapper-text-heading h2 {
+        font-size: 38px;
+        padding-bottom: 15px;
+    }
+    .banner-wrapper {
+        right: 75px;
+    }
+    .social-icon-wrapper {
+        top: 132px;
+        right: 0;
+    }
+    .social-icon-wrapper ul {
+        margin-left: 12px;
+    }
+    .social-icon {
+        color: #fff;
+        padding: 0 4px;
+        font-size: 17px;
+        cursor: pointer;
+    }
+    .social-icon-wrapper .container {
+        margin: auto;
+    }
+    .services-section {
+        margin-top: 171px;
+        padding-bottom: 33px;
+    }
+    .row.services-col-section .col-sm-4 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 45.333333% !important;
+        max-width: 55.333333% !important;
+        margin: auto;
+    }
+    /* .our-specialisations-section .col-sm-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 50% !important;
+    } */
+    .our-specialisations-section.wrapper-text-heading {
+        /* padding: 118px 0; */
+        padding: 25px 0;
+        padding-top: 119px;
+    }
+    .row.services-col-section {
+        padding: 0;
+    }
+    .row.our-special-col {
+        padding: 35px 0;
+    }
+    .services-icong-background {
+        background-position: center;
+    }
+    .card-text h4 {
+        font-size: 22px;
+    }
+    .card-text p {
+        font-size: 18px !important;
+        line-height: 28px;
+    }
+    .card-text {
+        padding: 31px 43px;
+    }
+    .email-submit-section-background {
+        width: 100%;
+        background-repeat: no-repeat;
+        height: auto;
+        padding: 0;
+        padding-bottom: 0px;
+        background-size: contain;
+    }
+    .email-background {
+        padding: 61px 0;
+        padding-bottom: 78px;
+    }
+    input#exampleInputEmail1 {
+        width: 629px;
+        margin: auto;
+        padding: 26px;
+        font-size: 19px;
+        border-radius: 40px;
+    }
+    button.btn.btn-primary.mb-2 {
+        background-image: linear-gradient(30deg, #606aff 29%, #6eafff) !important;
+        border: none;
+        padding: 8px 0;
+        font-size: 19px;
+        border-radius: 40px;
+        width: 192px;
+        margin-left: 426px;
+        margin-top: -55px;
+    }
+    .we-work-with-section {
+        position: relative;
+        margin-top: 78px;
+    }
+    .web-text-section {
+        left: 33px;
+        top: 0;
+    }
+    .supecial-content-text {
+        position: unset;
+    }
+    .item-content-section {
+        text-align: center;
+        padding: 30px 0;
+        max-width: 630px;
+        margin: auto;
+    }
+    .item-content-section p {
+        font-size: 17px;
+        line-height: 30px;
+        max-width: 100%;
+        margin: auto;
+    }
+    .item-section-backgrounds:before {
+        left: 156px;
+        bottom: 46px;
+        width: 55px;
+        height: 80px;
+    }
+    img.round-bottom-img {
+        width: 33px !important;
+        position: relative;
+        top: -17px;
+        left: 288px;
+    }
+    img.item-top-img {
+        width: 65px !important;
+        top: 20px;
+        left: 23px;
+    }
+    .item-section-backgrounds:after {
+        left: -22px;
+        bottom: 52px;
+        width: 64px;
+        height: 87px;
+    }
+    .item-section-backgrounds {
+        background-size: 70px;
+    }
+    div#testimonial-slider {
+        position: relative;
+        top: 185px;
+    }
+    .footer-wrapper .row {
+        margin-right: -55px;
+        margin-left: -55px;
+    }
+    /* testttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt */
+    img.img-responsive.logo-img {
+        display: none;
+    }
+    img.img-responsive.mobile-logo {
+        display: block;
+        width: 300px;
+        height: auto;
+    }
+    span.mobile-menu-btn {
+        font-size: 35px;
+        cursor: pointer;
+        top: 63px;
+        position: absolute;
+        right: 18px;
+    }
+    .banner-background {
+        width: 100%;
+        height: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url('https://www.catalyst.sh/wp/wp-content/uploads/2019/10/Bannner-are-BG-1.svg') !important;
+    }
+    .banner-background h1 {
+        font-size: 59px;
+        max-width: 339px;
+        color: #fff;
+        padding: 170px 0;
+        padding-bottom: 108rem;
+        line-height: 74px;
+    }
+    .social-icong-background {
+        display: none;
+    }
+    .digital-power-section {
+        margin-top: 0;
+        padding: 70px 0;
+    }
+    .mobile-about-us {
+        display: block;
+        margin-top: -229px;
+    }
+    img.mobile-about-img {
+        width: 100%;
+        height: auto;
+        margin-left: -5px !important;
+    }
+    .wrapper-text-heading h2 {
+        font-size: 38px;
+        padding-bottom: 15px;
+        text-align: left;
+    }
+    .services-section {
+        margin-top: 0;
+        padding: 50px 0;
+    }
+    .row.services-col-section p {
+        display: none;
+    }
+    .timeline-background .container {
+        margin-right: auto;
+    }
+    .timeline-background {
+        display: none;
+    }
+    .works-timeline {
+        display: none;
+    }
+    .timeline-carousel {
+        display: block;
+    }
+    div#reviews-slider {
+        display: none;
+    }
+    .our-work-wrapper.wrapper-text-heading p {
+        display: none;
+    }
+    .mobile-our-work {
+        display: block;
+    }
+    .our-work-wrapper.wrapper-text-heading {
+        padding: 50px 0;
+    }
+    .our-specialisations-background {
+        background-size: contain;
+        margin-top: 0;
+    }
+    .our-specialisations-col {
+        display: none;
+    }
+    .mobile-our-specialisations {
+        display: block;
+        padding-bottom: 30px;
+    }
+    .row.services-col-section .col-sm-4 {
+        padding: 0px 9px;
+        margin: 36px 0 !important;
+    }
+    .testimonial-section-background {
+        background-image: url('http://localhost/Catalyst-Web-Test/wp-content/uploads/2019/10/Testimoanial-BG.svg') !important;
+        background-size: cover;
+        height: 100vh;
+    }
+    .testimonial-text-wrapper.container {
+        max-width: 100% !important;
+    }
+    img.alignnone.size-medium.wp-image-129 {
+        display: none;
+    }
+    img.we-work-left-img {
+        display: block;
+    }
+    .testimonial-text-wrapper.container.wrapper-text-heading h2 {
+        max-width: 540px;
+        margin: auto;
+    }
+    .col-sm-3.col-6 {
+        display: none;
+    }
+    .row.footer-section {
+        border-bottom: none;
+        padding: 0;
+    }
+    .timeline-carousel .owl-theme .owl-dots .owl-dot span {
+        width: 70px !important;
+        height: 6px !important;
+        margin: 5px 7px;
+        background: #dde6fc !important;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 0 !important;
+    }
+}
+
+@media only screen and (max-width:600px) {}
+
+@media only screen and (max-width:575px) {
+    .banner-background h1 {
+        font-size: 47px;
+        max-width: 339px;
+        color: #fff;
+        padding: 140px 0;
+        padding-bottom: 67rem;
+        line-height: 59px;
+    }
+    .banner-wrapper {
+        right: 0;
+    }
+    img.mobile-specialisations-img.testimg {
+        position: relative;
+        right: 0;
+        width: 100%;
+    }
+    .wrapper-heading h2 {
+        font-size: 38px;
+        max-width: 328px;
+        padding-bottom: 15px;
+        margin-left: 40px;
+    }
+    input#exampleInputEmail1 {
+        width: 483px;
+        margin: auto;
+        padding: 26px;
+        font-size: 19px;
+    }
+    button.btn.btn-primary.mb-2 {
+        padding: 8px 0;
+        font-size: 19px;
+        width: 171px;
+        margin-left: 302px;
+        margin-top: -55px;
+    }
+    .footer-wrapper {
+        padding-top: 50px;
+    }
+    .footer-logo img {
+        width: 230px;
+        height: auto;
+        padding: 30px 0;
+    }
+    .footer-logo h3 {
+        font-size: 16px;
+        max-width: 296px;
+        margin: auto;
+        padding-bottom: 30px;
+    }
+    .container {
+        width: 100%;
+        padding-right: 37px !important;
+        padding-left: 37px !important;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .timeline-carousel .owl-theme .owl-dots .owl-dot span {
+        width: 50px !important;
+        height: 6px !important;
+        margin: 5px 7px;
+        background: #dde6fc !important;
+        display: block;
+        transition: opacity .2s ease;
+        border-radius: 0 !important;
+    }
+    .testimonial-section-background {
+        background-size: contain;
+        height: 100vh;
+    }
+    .item-content-section p {
+        font-size: 17px;
+        line-height: 30px;
+        margin: auto;
+        max-width: calc(95% - 67px);
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .email-background {
+        padding: 28px 0;
+        padding-bottom: 43px;
+    }
+    input#exampleInputEmail1 {
+        width: 410px;
+        margin: auto;
+        padding: 25px;
+        font-size: 19px;
+    }
+    .email-background h3 {
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+        padding-bottom: 9px;
+    }
+    button.btn.btn-primary.mb-2 {
+        padding: 8px 0;
+        font-size: 19px;
+        width: 150px;
+        margin-left: 250px;
+        margin-top: -53px;
+    }
+    button i.fab.fa-telegram-plane {
+        margin-left: 20px;
+        font-size: 25px;
+    }
+}
+
+
+   
+

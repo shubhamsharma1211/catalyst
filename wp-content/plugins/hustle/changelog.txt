@@ -1,0 +1,99 @@
+Plugin Name: Hustle
+Author: Ivan Svyrskyi (Incsub), Leighton Sapir (Incsub)
+
+Change Log:
+----------------------------------------------------------------------
+
+= 4.4.8 ( 2021-11-03 ) =
+- Enhance: White labeling support
+
+= 4.4.7 ( 2021-11-01 ) =
+- New: Hook for cloning modules to a new subsite when creating it on Multisite
+- Enhance: Check jQuery compatibility issues for scripts
+- Enhance: Ability to use CSS IDs as CTA button
+- Fix: Integration with Mailpoet mapping fields
+- Fix: Display custom logo enabled in white label
+- Fix: Disable read more tag for TinyMCE editor
+- Fix: Adding custom logo in WPMU DEV White label makes some other images invisible
+- Fix: Network Settings link in plugin page
+- Fix: Fatal Error when Schedule Start Date or End Date is Set Improperly for Slide-ins
+- Fix: Close button checkbox is not working
+- Fix: Custom User Font improperly set for Form Submit Button
+- Fix: Resetting Appearance settings for modules created based on a template
+- Fix: @media styles in Custom CSS
+- Fix: Icon color not being applied
+- Fix: Libre Franklin Google Font is missed
+- Fix: Border radius is not applying
+- Fix: Mobile size is not overriding the Desktop size
+- Fix: Tracking disabled button showing on mobile when Tracking is enabled
+- Fix: Active Pop-ups counter is not updating right away when you publish/unpublish
+- Fix: Borders overlap the background image
+- Fix: Pop-ups/Slide-ins triggers inside Elementor page builder
+
+
+= 4.4.6 ( 2021-10-04 ) =
+- New: Halloween template
+- New: Cache analytics data
+- New: How-to guide for visibility conditions
+- Enhance: Remove all cookies for GDPR compliance
+- Enhance: Remove subsite plugin data from DB after uninstalling the plugin on multisites
+- Enhance: Allow using module field values in "Submission behavior" redirect URL
+- Enhance: Remove spaces when you enter third-party credentials
+- Enhance: Image usage in templates
+- Enhance: Free to Pro upgrade
+- Enhance: Error handling with invalid reCaptcha keys
+- Enhance: Compatibility with Social Platform counters
+- Fix: Deprecated warnings for "block_categories" function
+- Fix: Missing footer menu
+- Fix: Popups close button background color with Twenty Twenty-One theme
+- Fix: Mobile custom slide-in size
+- Fix: Appearance > Typography > Reset button doesn't work
+- Fix: Never see this again link in slide-in mobile settings
+- Fix: Never see this again link hover and focus colors
+- Fix: Email address placeholder alignment
+- Fix: Popup compatibility with AdBlock
+- Fix: Embeds preview
+- Fix: Sub bullet point in main content
+- Fix: Arrow icon on Visibility page
+- Fix: Video Tutorials on the dashboard
+- Fix: z-index for datepicker on Email Lists filter
+- Fix: UI differences in wizard when Forminator is enabled
+
+
+= 4.4.5 ( 2021-08-11 ) =
+
+- New: Module templates
+- Enhance: Behavior when publishing and required fields are missing
+- Enhance: Display the "Visibilty after opt-in" setting for informational modules
+- Enhance: Always follow the "Visibilty after opt-in" setting for external forms
+- Enhance: Make the "After opt-in" behavior work with all confirmation types on AJAX Gravity Form forms
+- Fix: Automated emails not being sent by ConstantContact for Hustle subscriptions
+- Fix: PHP notice when subscribing to Mailchimp in some scenarios
+- Fix: "Scroll to" option in triggers not being saved
+- Fix: PHP notices for modules not migrated from 4.1.0
+- Fix: Popup's appearance on iOS 14.3 or greater
+- Fix: Missing navigation in the wizard pages for mobiles
+- Fix: Inserting placeholders for the automated email's date, time, and recipient not working
+- Fix: Resetting the typography options trigger error notices on reload in some cases
+- Fix: Compatibility issue with ACF's time field
+- Fix: Compatibility issue with Oxygen builder
+- Fix: Exit intent behavior having a wrong description
+- Fix: After CTA click and after submission visibility cookies expiring with the current session
+- Fix: "Hide on page/post" after subscription not working on the home page when it contains the latest posts
+
+= 4.4.4 ( 2021-04-08 ) =
+
+- Fix: Global Hubspot connection failing to authenticate
+- Fix: Global ConstantContct connection failing to authenticate
+- Fix: jQuery migration warnings
+
+= 4.4.3 ( 2021-02-19 ) =
+
+- Fix: Compiling issues in the free version
+
+= 4.4.2 ( 2021-02-16 ) =
+
+- Fix: Multiple triggers migration in multisites
+
+
+666182-1636022294-au

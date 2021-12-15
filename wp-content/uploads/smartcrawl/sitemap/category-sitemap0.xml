@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xml' href='https://catalyst.sh/wp-content/plugins/wpmu-dev-seo/includes/admin/templates/xsl/xml-sitemap-whitelabel.xsl'?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        >
+			<url>
+<loc>https://catalyst.sh/category/mobile/</loc>
+<lastmod>2020-11-27T12:01:53+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>			<url>
+<loc>https://catalyst.sh/category/art/</loc>
+<lastmod>2020-11-27T12:12:09+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>			<url>
+<loc>https://catalyst.sh/category/uncategorized/</loc>
+<lastmod>2021-03-09T05:09:28+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.2</priority>
+</url>			<url>
+<loc>https://catalyst.sh/category/web/</loc>
+<lastmod>2021-09-21T06:09:18+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>	</urlset>

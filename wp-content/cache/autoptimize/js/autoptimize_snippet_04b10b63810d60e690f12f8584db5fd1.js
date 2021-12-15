@@ -1,0 +1,1 @@
+SmoothScroll({frameRate:150,animationTime:2000,stepSize:150,pulseAlgorithm:1,pulseScale:8,pulseNormalize:1,accelerationDelta:40,accelerationMax:3,keyboardSupport:1,arrowScroll:50,fixedBackground:1});
